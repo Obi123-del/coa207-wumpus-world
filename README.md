@@ -151,7 +151,7 @@ The reflection evaluates:
 ```text
 README.md
 WUMPUS_WORLD_VARIANT_LAVA_CELLS_AND_THE_HEAT_PERCEPT.ipynb
-MartinsObi_COA207_Portfolio.pdf
+Component 1 & 3 - Wumpus World Variant Lava Cells and the Heat Percept.pdf
 ```
 
 ---
